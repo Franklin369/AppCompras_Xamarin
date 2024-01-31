@@ -1,0 +1,16 @@
+E:\Proyectos Xamarin\Appcompras\Appcompras\bin\Debug\netstandard2.0\Appcompras.deps.json
+E:\Proyectos Xamarin\Appcompras\Appcompras\bin\Debug\netstandard2.0\Appcompras.dll
+E:\Proyectos Xamarin\Appcompras\Appcompras\bin\Debug\netstandard2.0\ref\Appcompras.dll
+E:\Proyectos Xamarin\Appcompras\Appcompras\bin\Debug\netstandard2.0\Appcompras.pdb
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.csproj.AssemblyReference.cache
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\Vistas\Agregarcompra.xaml.g.cs
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\Vistas\Compras.xaml.g.cs
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.AssemblyInfoInputs.cache
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.AssemblyInfo.cs
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.csproj.CoreCompileInputs.cache
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.dll
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\ref\Appcompras.dll
+E:\Proyectos Xamarin\Appcompras\Appcompras\obj\Debug\netstandard2.0\Appcompras.pdb
